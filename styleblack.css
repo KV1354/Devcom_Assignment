@@ -1,0 +1,86 @@
+#container2 > *{
+    position: absolute;
+    width: 1.25vw;
+    height: 20vh;
+    top: 20vh;
+    background-image: url("Photos/blackkeybg.png");
+    border: solid black;
+    border-width: 1vh 0vw 1vh 0.25vw; 
+   
+}
+#Db1{
+    left: 7.75vw;  
+}
+#Eb1{
+    left: 10.7vw;
+}
+#Gb1{
+    left: 15.25vw;
+}
+#Ab1{
+    left: 18vw;
+}
+#Bb1{
+    left: 20.75vw;
+}
+#Db2{
+    left: 25.25vw;
+}
+#Eb2{
+    left: 28.2vw;
+}
+#Gb2{
+    left: 32.75vw;
+}
+#Ab2{
+    left: 35.5vw;
+}
+#Bb2{
+    left: 38.25vw;
+}
+#Db3{
+    left: 42.75vw;
+}
+#Eb3{
+    left: 45.7vw;
+}
+#Gb3{
+    left: 50.25vw;
+}
+#Ab3{
+    left: 53vw;
+}
+#Bb3{
+    left: 55.75vw;
+}
+#Db4{
+    left: 60.25vw;
+}
+#Eb4{
+    left: 63.2vw;
+}
+#Gb4{
+    left: 67.75vw;
+}
+#Ab4{
+    left: 70.5vw;
+}
+#Bb4{
+    
+    left: 73.25vw;
+}
+#Db5{
+    left: 77.75vw;
+}
+#Eb5{
+    left: 80.7vw;
+}
+#Gb5{
+    left: 85.25vw;
+}
+#Ab5{
+    left: 88vw;
+}
+#Bb5{
+    left: 90.75vw;
+}

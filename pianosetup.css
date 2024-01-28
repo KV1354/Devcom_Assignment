@@ -1,0 +1,38 @@
+#pianokeystop{
+    position: absolute;
+    top: 17.5vh;
+    left: 6.25vw;
+    width: 87.5vw;
+    height: 2.5vh;
+    background-image: url("Photos/pianokeystop.png");
+}
+#pianokeysleft, #pianokeysright{
+    position: absolute;
+    background-image: url("Photos/pianobase.png");
+    width: 5vw;
+    height: 32.5vh;
+    top: 17.5vh;
+}
+#pianokeysleft{
+    left: 1.5vw;
+}
+#pianokeysright{
+    left: 93.75vw;
+}
+#pianokeysbase{
+    position: absolute;
+    top: 40vh;
+    left: 1.5vw;
+    width: 97.25vw;
+    height: 13vh;
+    background-color: #2E2F31;
+    z-index: -1;
+}
+#pianotop{
+    position: absolute;
+    width: 97.25vw;
+    height: 15vh;
+    top: 2.5vh;
+    left: 1.5vw;
+    background-color: #2E2F31;
+}

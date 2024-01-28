@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#container1 > *{
+    position: absolute;
+    width: 2.5vw;
+    height: 30vh;  
+    top: 20vh;
+    border: solid #2E2F31;
+    background-color: hsl(0%, 0%, 90%);
+    border-width: 1vh 0vw 1vh 0.25vw; 
+    border-radius: 0vw 0vw 0.25vw 0.25vw;  
+}
+#c1{
+    left: 6.25vw;
+    border-left-width: 0.5vw;
+}
+#d1{
+    left: 8.75vw;
+}
+#e1{
+    left: 11.25vw;
+}
+#f1{
+    left: 13.75vw;
+}
+#g1{
+    left: 16.25vw;
+}
+#a1{
+    left: 18.75vw;
+}
+#b1{
+    left: 21.25vw;
+}
+#c2{
+    left: 23.75vw;
+}
+#d2{
+    left: 26.25vw;
+}
+#e2{
+    left: 28.75vw;
+}
+#f2{
+    left: 31.25vw;
+}
+#g2{
+    left: 33.75vw;
+}
+#a2{
+    left: 36.25vw;
+}
+#b2{
+    left: 38.75vw;
+}
+#c3{
+    left: 41.25vw;
+}
+#d3{
+    left: 43.75vw;
+}
+#e3{
+    left: 46.25vw;
+}
+#f3{
+    left: 48.75vw;
+}
+#g3{
+    left: 51.25vw;
+}
+#a3{
+    left: 53.75vw;
+}
+#b3{
+    left: 56.25vw;
+}
+#c4{
+    left: 58.75vw;
+}
+#d4{
+    left: 61.25vw;
+}
+#e4{
+    left: 63.75vw;
+}
+#f4{
+    left: 66.25vw;
+}
+#g4{
+    left: 68.75vw;
+}
+#a4{
+    left: 71.25vw;
+}
+#b4{
+    left: 73.75vw;
+}
+#c5{
+    left: 76.25vw;
+}
+#d5{
+    left: 78.75vw;
+}
+#e5{
+    left: 81.25vw;
+}
+#f5{
+    left: 83.75vw;
+}
+#g5{
+    left: 86.25vw;
+}
+#a5{
+    left: 88.75vw;
+}
+#b5{
+    left: 91.25vw;
+    border-width: 1vh 0.25vw 1vh 0.25vw;
+    border-bottom-right-radius: 0;
+}
+
+
