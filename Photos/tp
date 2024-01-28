@@ -1,0 +1,36 @@
+if (w2[i]>='1' && w2[i]<='9') 
+        {
+            let no=w2[i];
+            i++;
+            for (let k=1; k<=no; k++)
+            {
+                if (w2[i]==w2[i].toUpperCase())
+                { 
+                    let ke=w2[i]+"b"+w2[i+1];
+                    kee.push(ke);    
+                    i+=2;
+                }
+                else 
+                {
+                    let ke=w2[i]+w2[i+1];
+                    kee.push(ke); 
+                    i+=2;
+                }
+            }
+        }
+        else if (w2[i]!='-')
+        {
+            if (w2[i]==w2[i].toUpperCase()) 
+            { 
+                let ke=w2[i]+"b"+w2[i+1];
+                kee.push(ke);
+                i+=2;
+            }
+            else 
+            {
+                let ke=w2[i]+w2[i+1];
+                kee.push(ke);
+                playkey(kee);  
+                i+=2;
+            }
+        } 
